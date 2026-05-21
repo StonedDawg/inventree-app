@@ -1,8 +1,8 @@
 {
   "@@locale": "vi",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "Đồng ý",
   "@ok": {
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Thời gian trễ giữa lần quét mã vạch",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Quét mã vạch InvenTree",
+  "barcodeScanGeneral": "Quét mã vạch klerk",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Quét các mặt hàng trong kho vào vị trí này",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Không chọn Profile",
   "@profileNotSelected": {},
-  "profileSelect": "Chọn máy chủ InvenTree",
+  "profileSelect": "Chọn máy chủ klerk",
   "@profileSelect": {},
   "profileSelectOrCreate": "Chọn máy chủ hoặc tạo mới profile",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Dịch",
   "@translate": {},
-  "translateHelp": "Hỗ trợ dịch InvenTree app",
+  "translateHelp": "Hỗ trợ dịch klerk app",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

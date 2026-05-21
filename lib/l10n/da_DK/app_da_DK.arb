@@ -1,8 +1,8 @@
 {
   "@@locale": "da",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "OK",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "Adresse",
   "@address": {},
-  "appAbout": "Om InvenTree",
+  "appAbout": "Om klerk",
   "@appAbout": {},
   "appCredits": "Yderligere app kredit",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "Appindstillinger",
   "@appSettings": {},
-  "appSettingsDetails": "Konfigurer InvenTree app-indstillinger",
+  "appSettingsDetails": "Konfigurer klerk app-indstillinger",
   "@appSettingsDetails": {},
   "assignedToMe": "Tildelt til Mig",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Forsinkelse mellem stregkode scanninger",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Scan en InvenTree stregkode",
+  "barcodeScanGeneral": "Scan en klerk stregkode",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Scan lagervare ind på denne lokation",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Ingen Profil Valgt",
   "@profileNotSelected": {},
-  "profileSelect": "Vælg InvenTree Server",
+  "profileSelect": "Vælg klerk Server",
   "@profileSelect": {},
   "profileSelectOrCreate": "Vælg server eller opret ny profil",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Oversæt",
   "@translate": {},
-  "translateHelp": "Hjælp med at oversætte InvenTree appen",
+  "translateHelp": "Hjælp med at oversætte klerk appen",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

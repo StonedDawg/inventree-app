@@ -1,8 +1,8 @@
 {
   "@@locale": "ro",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "OK",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "Adresă",
   "@address": {},
-  "appAbout": "Despre InvenTree",
+  "appAbout": "Despre klerk",
   "@appAbout": {},
   "appCredits": "Credite Adiționale",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "Setări Aplicație",
   "@appSettings": {},
-  "appSettingsDetails": "Configurare setări aplicație InvenTree",
+  "appSettingsDetails": "Configurare setări aplicație klerk",
   "@appSettingsDetails": {},
   "assignedToMe": "Alocate mie",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Pauza intre scanarea codurilor de bare",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Scanează un cod de bare InvenTree",
+  "barcodeScanGeneral": "Scanează un cod de bare klerk",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Scanează si Introdu stoc in locație",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Nici un profil selectat",
   "@profileNotSelected": {},
-  "profileSelect": "Selectați serverul InvenTree",
+  "profileSelect": "Selectați serverul klerk",
   "@profileSelect": {},
   "profileSelectOrCreate": "Selectează server sau creează un profil nou",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Traduceți",
   "@translate": {},
-  "translateHelp": "Ajută la traducerea aplicației InvenTree",
+  "translateHelp": "Ajută la traducerea aplicației klerk",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

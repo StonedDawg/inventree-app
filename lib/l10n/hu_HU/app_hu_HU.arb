@@ -1,8 +1,8 @@
 {
   "@@locale": "hu",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "OK",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "Cím",
   "@address": {},
-  "appAbout": "InvenTree névjegy",
+  "appAbout": "klerk névjegy",
   "@appAbout": {},
   "appCredits": "További közreműködők",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "Alkalmazásbeállítások",
   "@appSettings": {},
-  "appSettingsDetails": "Inventree alkalmazás beállításai",
+  "appSettingsDetails": "klerk alkalmazás beállításai",
   "@appSettingsDetails": {},
   "assignedToMe": "Hozzámrendelt",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Vonalkód olvasások közti késleltetés",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Olvass be egy InvenTree vonalkódot",
+  "barcodeScanGeneral": "Olvass be egy klerk vonalkódot",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Készlet bevételezése erre a helyre",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Nincs kiválasztva profil",
   "@profileNotSelected": {},
-  "profileSelect": "Válassz InvenTree kiszolgálót",
+  "profileSelect": "Válassz klerk kiszolgálót",
   "@profileSelect": {},
   "profileSelectOrCreate": "Válassz kiszolgálót vagy hozz létre új profilt",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Fordítás",
   "@translate": {},
-  "translateHelp": "Segíts lefordítani az InvenTree alkalmazást",
+  "translateHelp": "Segíts lefordítani az klerk alkalmazást",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

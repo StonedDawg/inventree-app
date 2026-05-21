@@ -2,7 +2,7 @@
   "@@locale": "fa",
   "appTitle": "اینونتری",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "تأیید",
   "@ok": {
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "تاخیر بین اسکن بارکد",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "بارکد InvenTree را اسکن کنید",
+  "barcodeScanGeneral": "بارکد klerk را اسکن کنید",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "اقلام موجودی را در این مکان اسکن کنید",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "هیچ نمایه ای انتخاب نشده است",
   "@profileNotSelected": {},
-  "profileSelect": "سرور InvenTree را انتخاب کنید",
+  "profileSelect": "سرور klerk را انتخاب کنید",
   "@profileSelect": {},
   "profileSelectOrCreate": "سرور را انتخاب کنید یا یک نمایه جدید ایجاد کنید",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "ترجمه",
   "@translate": {},
-  "translateHelp": "کمک به ترجمه برنامه InvenTree",
+  "translateHelp": "کمک به ترجمه برنامه klerk",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

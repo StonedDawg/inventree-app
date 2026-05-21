@@ -1,8 +1,8 @@
 {
   "@@locale": "fi",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "OK",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "Osoite",
   "@address": {},
-  "appAbout": "Tietoja InvenTree:stä",
+  "appAbout": "Tietoja klerk:stä",
   "@appAbout": {},
   "appCredits": "Additional app credits",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "Sovelluksen asetukset",
   "@appSettings": {},
-  "appSettingsDetails": "Määritä InvenTree sovelluksen asetukset",
+  "appSettingsDetails": "Määritä klerk sovelluksen asetukset",
   "@appSettingsDetails": {},
   "assignedToMe": "Assigned to Me",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Delay between barcode scans",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Scan an InvenTree barcode",
+  "barcodeScanGeneral": "Scan an klerk barcode",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Scan stock items into this location",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Profiilia ei valittu",
   "@profileNotSelected": {},
-  "profileSelect": "Valitsee InvenTree-palvelin",
+  "profileSelect": "Valitsee klerk-palvelin",
   "@profileSelect": {},
   "profileSelectOrCreate": "Valitse palvelin tai luo uusi profiili",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Käännä",
   "@translate": {},
-  "translateHelp": "Auta kääntämään InvenTree-sovellusta",
+  "translateHelp": "Auta kääntämään klerk-sovellusta",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

@@ -1,8 +1,8 @@
 {
   "@@locale": "de",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "OK",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "Adresse",
   "@address": {},
-  "appAbout": "Über InvenTree",
+  "appAbout": "Über klerk",
   "@appAbout": {},
   "appCredits": "Weitere App-Danksagungen",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "App-Einstellungen",
   "@appSettings": {},
-  "appSettingsDetails": "InvenTree-App Einstellungen konfigurieren",
+  "appSettingsDetails": "klerk-App Einstellungen konfigurieren",
   "@appSettingsDetails": {},
   "assignedToMe": "Mir zugewiesen",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Verzögerung zwischen Barcode-Scans",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Einen InvenTree Barcode scannen",
+  "barcodeScanGeneral": "Einen klerk Barcode scannen",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Artikel per Barcode-Scan zu diesem Lagerort hinzufügen",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Kein Profil ausgewählt",
   "@profileNotSelected": {},
-  "profileSelect": "InvenTree-Server auswählen",
+  "profileSelect": "klerk-Server auswählen",
   "@profileSelect": {},
   "profileSelectOrCreate": "Server auswählen oder ein neues Profil erstellen",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Übersetzen",
   "@translate": {},
-  "translateHelp": "Hilf dabei, die InvenTree App zu übersetzen",
+  "translateHelp": "Hilf dabei, die klerk App zu übersetzen",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

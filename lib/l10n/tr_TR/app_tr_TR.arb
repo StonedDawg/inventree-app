@@ -1,8 +1,8 @@
 {
   "@@locale": "tr",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "TAMAM",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "Adres",
   "@address": {},
-  "appAbout": "InvenTree Hakkında",
+  "appAbout": "klerk Hakkında",
   "@appAbout": {},
   "appCredits": "Ek uygulama kredileri",
   "@appCredits": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Barkod taramaları arasındaki gecikme",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Bir InvenTree barkodu tara",
+  "barcodeScanGeneral": "Bir klerk barkodu tara",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Stok kalemlerini bu konumun içine tara",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Profil seçilmedi",
   "@profileNotSelected": {},
-  "profileSelect": "InvenTree sunucusu seç",
+  "profileSelect": "klerk sunucusu seç",
   "@profileSelect": {},
   "profileSelectOrCreate": "Sunucu seçin veya yeni bir profil oluşturun",
   "@profileSelectOrCreate": {},

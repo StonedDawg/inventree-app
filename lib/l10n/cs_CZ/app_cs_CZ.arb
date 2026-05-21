@@ -1,8 +1,8 @@
 {
   "@@locale": "cs",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "OK",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "Adresa",
   "@address": {},
-  "appAbout": "O InvenTree",
+  "appAbout": "O klerk",
   "@appAbout": {},
   "appCredits": "Poděkování dalším stranám",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "Nastavení aplikace",
   "@appSettings": {},
-  "appSettingsDetails": "Konfigurovat nastavení aplikace InvenTree",
+  "appSettingsDetails": "Konfigurovat nastavení aplikace klerk",
   "@appSettingsDetails": {},
   "assignedToMe": "Přiřazeno mně",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Prodleva mezi skenováním čárových kódů",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Naskenovat čárový kód InvenTree",
+  "barcodeScanGeneral": "Naskenovat čárový kód klerk",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Skenovat skladové položky do tohoto umístění",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Nebyl zvolen žádný profil",
   "@profileNotSelected": {},
-  "profileSelect": "Vybrat InvenTree server",
+  "profileSelect": "Vybrat klerk server",
   "@profileSelect": {},
   "profileSelectOrCreate": "Vyberte server nebo vytvořte nový profil",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Přeložit",
   "@translate": {},
-  "translateHelp": "Pomozte přeložit aplikaci InvenTree",
+  "translateHelp": "Pomozte přeložit aplikaci klerk",
   "@translateHelp": {},
   "unallocate": "Zrušit přidělení",
   "@unallocate": {},

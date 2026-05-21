@@ -2,7 +2,7 @@
   "@@locale": "ar",
   "appTitle": "",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "حسناً",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "العنوان",
   "@address": {},
-  "appAbout": "حولInvenTree",
+  "appAbout": "حولklerk",
   "@appAbout": {},
   "appCredits": "العنوان",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "إعدادات التطبيق",
   "@appSettings": {},
-  "appSettingsDetails": "تكوين إعدادات تطبيق InvenTree",
+  "appSettingsDetails": "تكوين إعدادات تطبيق klerk",
   "@appSettingsDetails": {},
   "assignedToMe": "تم تعيينها لي",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "تأخير بين مسح الباركود",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "قم بفحص باركود InvenTree",
+  "barcodeScanGeneral": "قم بفحص باركود klerk",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "مسح العناصر المخزنة في هذا الفرع",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "No Profile Selected",
   "@profileNotSelected": {},
-  "profileSelect": "Select InvenTree Server",
+  "profileSelect": "Select klerk Server",
   "@profileSelect": {},
   "profileSelectOrCreate": "Select server or create a new profile",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Translate",
   "@translate": {},
-  "translateHelp": "Help translate the InvenTree app",
+  "translateHelp": "Help translate the klerk app",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

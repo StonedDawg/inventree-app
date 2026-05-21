@@ -1,8 +1,8 @@
 {
   "@@locale": "ja",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "はい",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "アドレス",
   "@address": {},
-  "appAbout": "InvenTree について",
+  "appAbout": "klerk について",
   "@appAbout": {},
   "appCredits": "すぺしゃる★さんくす！",
   "@appCredits": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "バーコードスキャン間の遅延",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "InvenTree バーコードをスキャンする",
+  "barcodeScanGeneral": "klerk バーコードをスキャンする",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "在庫アイテムをスキャンしてこの場所に登録する",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "プロフィールが選択されていません",
   "@profileNotSelected": {},
-  "profileSelect": "InvenTreeサーバーを選択",
+  "profileSelect": "klerkサーバーを選択",
   "@profileSelect": {},
   "profileSelectOrCreate": "サーバーを選択するか、新しいプロファイルを作成",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "翻訳",
   "@translate": {},
-  "translateHelp": "InvenTree アプリの翻訳に協力する",
+  "translateHelp": "klerk アプリの翻訳に協力する",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

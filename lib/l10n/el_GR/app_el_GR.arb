@@ -1,8 +1,8 @@
 {
   "@@locale": "el",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "ΟΚ",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "Διεύθυνση",
   "@address": {},
-  "appAbout": "Σχετικά με το InvenTree",
+  "appAbout": "Σχετικά με το klerk",
   "@appAbout": {},
   "appCredits": "Πιστώσεις Εφαρμογής",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "Ρυθμίσεις Εφαρμογής",
   "@appSettings": {},
-  "appSettingsDetails": "Διαμόρφωση ρυθμίσεων της εφαρμογής InvenTree",
+  "appSettingsDetails": "Διαμόρφωση ρυθμίσεων της εφαρμογής klerk",
   "@appSettingsDetails": {},
   "assignedToMe": "Ανατεθειμένα σε εμένα",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Καθυστέρηση μεταξύ σαρώσεων barcode",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Σάρωση InvenTree barcode",
+  "barcodeScanGeneral": "Σάρωση klerk barcode",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Σάρωση αντικειμένων σε αυτήν την τοποθεσία",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Δεν επιλέχθηκε προφίλ",
   "@profileNotSelected": {},
-  "profileSelect": "Επιλογή Διακομιστή InvenTree",
+  "profileSelect": "Επιλογή Διακομιστή klerk",
   "@profileSelect": {},
   "profileSelectOrCreate": "Επιλέξτε διακομιστή ή δημιουργήστε νέο προφίλ",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Μετάφραση",
   "@translate": {},
-  "translateHelp": "Βοηθήστε στη μετάφραση της εφαρμογής InvenTree",
+  "translateHelp": "Βοηθήστε στη μετάφραση της εφαρμογής klerk",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

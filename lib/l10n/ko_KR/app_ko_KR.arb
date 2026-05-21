@@ -1,8 +1,8 @@
 {
   "@@locale": "ko",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "확인",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "주소",
   "@address": {},
-  "appAbout": "InvenTree 소개",
+  "appAbout": "klerk 소개",
   "@appAbout": {},
   "appCredits": "앱 크레딧",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "앱 설정",
   "@appSettings": {},
-  "appSettingsDetails": "InvenTree 앱 설정 구성",
+  "appSettingsDetails": "klerk 앱 설정 구성",
   "@appSettingsDetails": {},
   "assignedToMe": "나에게 할당됨",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "바코드 스캔 간 지연 시간",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "InvenTree 바코드 스캔",
+  "barcodeScanGeneral": "klerk 바코드 스캔",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "이 위치로 재고 스캔 입고",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "선택된 프로필 없음",
   "@profileNotSelected": {},
-  "profileSelect": "InvenTree 서버 선택",
+  "profileSelect": "klerk 서버 선택",
   "@profileSelect": {},
   "profileSelectOrCreate": "서버 선택 또는 새 프로필 생성",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "번역",
   "@translate": {},
-  "translateHelp": "InvenTree 앱의 번역을 도와주세요",
+  "translateHelp": "klerk 앱의 번역을 도와주세요",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

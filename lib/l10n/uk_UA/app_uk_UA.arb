@@ -1,8 +1,8 @@
 {
   "@@locale": "uk",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "Добре",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "Адреса",
   "@address": {},
-  "appAbout": "Про InvenTree",
+  "appAbout": "Про klerk",
   "@appAbout": {},
   "appCredits": "Додаткові кредити застосунку",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "Налаштування додатку",
   "@appSettings": {},
-  "appSettingsDetails": "Налаштування додатку InvenTree",
+  "appSettingsDetails": "Налаштування додатку klerk",
   "@appSettingsDetails": {},
   "assignedToMe": "Призначені мені",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "Затримка між скануваннями штрих-кодів",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "Сканувати штрих-код InvenTree",
+  "barcodeScanGeneral": "Сканувати штрих-код klerk",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "Просканувати запас товару в це місце",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "Немає вибраного профілю",
   "@profileNotSelected": {},
-  "profileSelect": "Виберіть InvenTree сервер",
+  "profileSelect": "Виберіть klerk сервер",
   "@profileSelect": {},
   "profileSelectOrCreate": "Виберіть сервер або створіть новий профіль",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "Переклад",
   "@translate": {},
-  "translateHelp": "Допоможіть перекласти InvenTree app",
+  "translateHelp": "Допоможіть перекласти klerk app",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},

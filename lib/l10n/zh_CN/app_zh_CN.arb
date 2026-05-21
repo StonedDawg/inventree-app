@@ -1,8 +1,8 @@
 {
   "@@locale": "zh-CN",
-  "appTitle": "InvenTree",
+  "appTitle": "klerk",
   "@appTitle": {
-    "description": "InvenTree application title string"
+    "description": "klerk application title string"
   },
   "ok": "好",
   "@ok": {
@@ -28,7 +28,7 @@
   },
   "address": "地址",
   "@address": {},
-  "appAbout": "关于 InvenTree",
+  "appAbout": "关于 klerk",
   "@appAbout": {},
   "appCredits": "额外 app 凭据",
   "@appCredits": {},
@@ -68,7 +68,7 @@
   "@appReleaseNotes": {},
   "appSettings": "应用设置",
   "@appSettings": {},
-  "appSettingsDetails": "配置 InvenTree app 设置项",
+  "appSettingsDetails": "配置 klerk app 设置项",
   "@appSettingsDetails": {},
   "assignedToMe": "已分派给我",
   "@assignedToMe": {},
@@ -130,7 +130,7 @@
   "@barcodeScanDelay": {},
   "barcodeScanDelayDetail": "两次条形码扫描之间的延迟时间",
   "@barcodeScanDelayDetail": {},
-  "barcodeScanGeneral": "扫描 InvenTree 条形码",
+  "barcodeScanGeneral": "扫描 klerk 条形码",
   "@barcodeScanGeneral": {},
   "barcodeScanInItems": "将库存项扫描进这个位置",
   "@barcodeScanInItems": {},
@@ -766,7 +766,7 @@
   "@profileNone": {},
   "profileNotSelected": "未选择配置文件",
   "@profileNotSelected": {},
-  "profileSelect": "选择Inventree 服务器",
+  "profileSelect": "选择klerk 服务器",
   "@profileSelect": {},
   "profileSelectOrCreate": "选择服务器或创建新的配置文件",
   "@profileSelectOrCreate": {},
@@ -1216,7 +1216,7 @@
   "@transferStockLocationDetail": {},
   "translate": "转移",
   "@translate": {},
-  "translateHelp": "协助翻译 InvenTree 应用",
+  "translateHelp": "协助翻译 klerk 应用",
   "@translateHelp": {},
   "unallocate": "Unallocate",
   "@unallocate": {},
